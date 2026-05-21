@@ -118,8 +118,6 @@ Full Stack Developer | AI Enthusiast | CSE Student
 
 </div>
 
----
-
 # 📈 Contribution Graph
 
 [![Phanikumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Phanikumar2525&theme=react-dark)](https://github.com/Phanikumar2525)
