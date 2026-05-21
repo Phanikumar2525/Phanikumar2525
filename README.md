@@ -96,17 +96,25 @@ Full Stack Developer | AI Enthusiast | CSE Student
 
 ---
 
+
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Phanikumar2525&theme=react&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phanikumar2525&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Phanikumar2525&show_icons=true&theme=react&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanikumar2525&layout=compact&langs_count=8&theme=react"/>
 
-<br/>
+</div>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanikumar2525&layout=compact&theme=react&border_radius=10" />
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Phanikumar2525&theme=react"/>
 
 </div>
 
